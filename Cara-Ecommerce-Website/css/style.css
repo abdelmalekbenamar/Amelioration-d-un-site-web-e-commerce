@@ -572,3 +572,32 @@ footer .copyright{
     text-align: center;
     width: 100%;
 }
+
+#formulaire{
+    width:500px;
+    margin: 50px auto 50px auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding: 50px;
+    background-color: rgb(159, 147, 173);
+    border-radius: 3px;
+}
+input, textarea{
+    width: 100%;
+    margin-bottom: 15px;
+}
+input{
+    height: 24px;
+}
+
+button{
+    display: block;
+    width: 100px;
+    height: 30px;
+    margin: 0 auto;
+}
+
+form h2{
+    font-size: 27px;
+    text-align: center;
+}
